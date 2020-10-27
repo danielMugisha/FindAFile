@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: pyqtspinner
+Version: 0.1.1
+Summary: A waiting spinner for PyQt5
+Home-page: https://github.com/fbjorn/QtWaitingSpinner
+Author: fbjorn
+Author-email: kopfabschneider@yandex.ru
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: PyQt5
